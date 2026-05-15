@@ -1,0 +1,19 @@
+[26168:6096:0515/013119.824:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[26168:26392:0515/013119.922:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[26168:6096:0515/013119.946:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[10244:12152:0515/013131.383:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-04793695C786D921E55908D64C832DDD will be ignored
+[26168:6096:0515/013131.780:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint (unset) for first_image_paint 1.529 s
+[26168:6096:0515/013131.840:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.625 s for first_image_paint 1.529 s
+[26168:6096:0515/013131.968:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.625 s for first_image_paint 1.529 s
+[12184:26220:0515/013132.070:ERROR:ffmpeg_common.cc(965)] Unsupported pixel format: -1
+[26168:6096:0515/013132.084:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.625 s for first_image_paint 1.529 s
+[26168:6096:0515/013132.353:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.625 s for first_image_paint 1.529 s
+[26168:6096:0515/013132.451:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.625 s for first_image_paint 1.529 s
+[26168:6096:0515/013133.225:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.625 s for first_image_paint 1.529 s
+[26168:6096:0515/013134.268:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.625 s for first_image_paint 1.529 s
+[26168:6096:0515/013134.768:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.625 s for first_image_paint 1.529 s
+[26168:6096:0515/013139.131:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.625 s for first_image_paint 1.529 s
+[12184:26220:0515/013139.509:ERROR:ffmpeg_common.cc(965)] Unsupported pixel format: -1
+[12184:18692:0515/013331.969:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 6-B8E62151002BC3F7DF1C7C4F4A99D501 will be ignored
+[26168:6096:0515/013335.363:ERROR:command_buffer_proxy_impl.cc(325)] GPU state invalid after WaitForGetOffsetInRange.
+[26168:6096:0515/013335.378:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.

@@ -1,0 +1,15 @@
+{
+  "WorkspaceID": "dv.ws.5a32afb8-2c3f-43c4-9886-d4e9921eebed",
+  "RepoID": "dv.repo.d7163e66-861d-46a2-9def-0f164aa90e11",
+  "Path": "C:\\Users\\carme\\Documents\\VideojuegosPrototipo",
+  "AccountID": "Google_117363334540755000779",
+  "BranchID": "dv.branch.1",
+  "BranchName": "main",
+  "CommitID": "dv.commit.75",
+  "Paused": false,
+  "ShouldDownload": false,
+  "RepoName": "VideojuegosPrototipo",
+  "ReadOnly": false,
+  "DigestMethod": "sha1",
+  "OrganizationTier": "UNKNOWN"
+}

@@ -1,0 +1,7 @@
+[12668:16416:0515/012725.614:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[12668:27036:0515/012725.706:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[12668:16416:0515/012725.719:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[28744:32640:0515/012737.664:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-B0AF0BAC7AA9D08E8B8FF2C7FDA612B9 will be ignored
+[19448:30408:0515/012933.728:ERROR:ffmpeg_common.cc(965)] Unsupported pixel format: -1
+[12668:16416:0515/013056.575:ERROR:command_buffer_proxy_impl.cc(325)] GPU state invalid after WaitForGetOffsetInRange.
+[12668:16416:0515/013056.600:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
