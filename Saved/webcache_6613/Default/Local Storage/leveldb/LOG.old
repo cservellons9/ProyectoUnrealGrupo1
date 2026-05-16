@@ -1,6 +1,3 @@
-2026/05/15-01:31:19.996 483c Reusing MANIFEST C:\Users\carme\Documents\VideojuegosPrototipo\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
-2026/05/15-01:31:20.001 483c Recovering log #32
-2026/05/15-01:31:20.003 483c Reusing old log C:\Users\carme\Documents\VideojuegosPrototipo\Saved\webcache_6613\Default\Local Storage\leveldb/000032.log 
-2026/05/15-01:31:37.188 5c54 Level-0 table #37: started
-2026/05/15-01:31:37.192 5c54 Level-0 table #37: 28015 bytes OK
-2026/05/15-01:31:37.194 5c54 Delete type=0 #32
+2026/05/15-11:28:10.533 463c Reusing MANIFEST C:\Users\carme\Documents\VideojuegosPrototipo\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
+2026/05/15-11:28:10.555 463c Recovering log #40
+2026/05/15-11:28:10.629 463c Reusing old log C:\Users\carme\Documents\VideojuegosPrototipo\Saved\webcache_6613\Default\Local Storage\leveldb/000040.log 
