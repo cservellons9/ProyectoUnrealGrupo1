@@ -2342,3 +2342,32 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.06.07-08.10.36:098][768]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3299.015869
 [2026.06.07-08.10.37:095][771]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2026.06.07-08.10.37:095][772]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3299.682861, Update Interval: 316.943268
+[2026.06.07-08.16.27:272][821]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3650.187744
+[2026.06.07-08.16.28:271][824]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.06.07-08.16.28:271][824]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3650.854492, Update Interval: 310.582001
+[2026.06.07-17.53.01:217][837]LogUdpMessaging: Display: FUdpMessageProcessor::UpdateKnownNodes: Removing Node 5AC6854A4C4DCAC0737A3A85CEEA774D (192.168.1.18:58794)
+[2026.06.07-17.53.01:244][837]LogAudioMixer: Display: Attempt to swap audio render device to new device: '[System Default]', because: 'AudioMixerPlatformInterface. Timeout waiting for h/w.', force=1
+[2026.06.07-17.53.01:246][837]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [34589 Seconds] waiting for h/w. InstanceID=1
+[2026.06.07-17.53.06:226][837]LogAudioMixer: Display: Ignoring device swap request, AudioStreamInfo.StreamState: 5
+[2026.06.07-17.53.06:226][837]LogAudioMixer: Display: NOT-ALLOWING attempt to swap audio render device to new device: '[System Default]', because: 'AudioMixerPlatformInterface. Timeout waiting for h/w.', force=1
+[2026.06.07-17.53.06:233][837]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [ 5 Seconds] waiting for h/w. InstanceID=1
+[2026.06.07-17.53.09:248][837]LogDerivedDataCache: C:/Users/May/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.219 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.06.07-17.53.11:225][837]LogAudioMixer: Display: Ignoring device swap request, AudioStreamInfo.StreamState: 5
+[2026.06.07-17.53.11:227][837]LogAudioMixer: Display: NOT-ALLOWING attempt to swap audio render device to new device: '[System Default]', because: 'AudioMixerPlatformInterface. Timeout waiting for h/w.', force=1
+[2026.06.07-17.53.11:227][837]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [ 5 Seconds] waiting for h/w. InstanceID=1
+[2026.06.07-17.53.16:226][837]LogAudioMixer: Display: Ignoring device swap request, AudioStreamInfo.StreamState: 5
+[2026.06.07-17.53.16:226][837]LogAudioMixer: Display: NOT-ALLOWING attempt to swap audio render device to new device: '[System Default]', because: 'AudioMixerPlatformInterface. Timeout waiting for h/w.', force=1
+[2026.06.07-17.53.16:226][837]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [ 5 Seconds] waiting for h/w. InstanceID=1
+[2026.06.07-17.53.21:226][837]LogAudioMixer: Display: Ignoring device swap request, AudioStreamInfo.StreamState: 5
+[2026.06.07-17.53.21:226][837]LogAudioMixer: Display: NOT-ALLOWING attempt to swap audio render device to new device: '[System Default]', because: 'AudioMixerPlatformInterface. Timeout waiting for h/w.', force=1
+[2026.06.07-17.53.21:226][837]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [ 5 Seconds] waiting for h/w. InstanceID=1
+[2026.06.07-17.53.22:236][837]LogAudioMixer: Display: FMixerPlatformXAudio2::PreDeviceSwap - Starting swap to [[System Default]]
+[2026.06.07-17.53.22:236][837]LogAudioMixer: Display: FMixerPlatformXAudio2::EnqueueAsyncDeviceSwap - enqueuing async device swap
+[2026.06.07-17.53.22:241][837]LogAudioMixer: Display: FMixerPlatformXAudio2::PerformDeviceSwap - AsyncTask Start. Because=AudioMixerPlatformInterface. Timeout waiting for h/w.
+[2026.06.07-17.53.23:154][847]LogAudioMixer: Display: FMixerPlatformXAudio2::PostDeviceSwap - successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{e682058f-27d2-4357-bad3-5968bc92f14b}, Name=Speakers (Realtek(R) Audio)), Reason=AudioMixerPlatformInterface. Timeout waiting for h/w., InstanceID=1, DurationMS=793.75
+[2026.06.07-17.53.23:157][847]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2026.06.07-17.53.23:157][847]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2026.06.07-17.53.23:165][847]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2026.06.07-17.54.06:126][905]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 38309.722656
+[2026.06.07-17.54.07:118][908]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.06.07-17.54.07:118][908]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 38310.386719, Update Interval: 300.822174
