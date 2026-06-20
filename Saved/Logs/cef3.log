@@ -1,23 +1,0 @@
-[13672:22772:0619/135232.048:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[13672:22772:0619/135233.634:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[13672:2084:0619/135324.146:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\May\OneDrive\Documentos\ProyectoUnrealGrupo1\Saved\webcache_6613_1\Default\shared_proto_db\metadata: IO error: C:\Users\May\OneDrive\Documentos\ProyectoUnrealGrupo1\Saved\webcache_6613_1\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[13672:2084:0619/135324.187:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\May\OneDrive\Documentos\ProyectoUnrealGrupo1\Saved\webcache_6613_1\Default\shared_proto_db\metadata: IO error: C:\Users\May\OneDrive\Documentos\ProyectoUnrealGrupo1\Saved\webcache_6613_1\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[13672:2084:0619/135324.220:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\May\OneDrive\Documentos\ProyectoUnrealGrupo1\Saved\webcache_6613_1\Default\shared_proto_db\metadata: IO error: C:\Users\May\OneDrive\Documentos\ProyectoUnrealGrupo1\Saved\webcache_6613_1\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[13672:2084:0619/135324.313:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\May\OneDrive\Documentos\ProyectoUnrealGrupo1\Saved\webcache_6613_1\Default\shared_proto_db\metadata: IO error: C:\Users\May\OneDrive\Documentos\ProyectoUnrealGrupo1\Saved\webcache_6613_1\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[13672:18008:0619/135328.430:WARNING:value_store_frontend.cc(47)] Reading ahfgeienlihckogmohjhadlkjgocpleb.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[13672:18008:0619/135328.434:WARNING:value_store_frontend.cc(47)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[1316:20164:0619/135328.665:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-A832F0F5D4A11BC2FD6227F0C4F7723E will be ignored
-[13672:22772:0619/150720.939:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[13672:22772:0619/153537.406:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[13672:22772:0619/153542.399:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[13672:22772:0619/153557.403:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[13672:22772:0619/153847.757:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[13672:22772:0619/154933.381:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[13672:22772:0619/155038.042:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[13672:22772:0619/155443.076:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[13672:22772:0619/173700.159:ERROR:device_event_log_impl.cc(196)] [17:37:00.110] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: No se ha encontrado el elemento. (0x490)
-[13672:22772:0619/173700.160:ERROR:device_event_log_impl.cc(196)] [17:37:00.119] USB: usb_service_win.cc:308 SetupDiEnumDeviceInterfaces: No se dispone de más datos. (0x103)
-[13672:22772:0619/183215.289:ERROR:device_event_log_impl.cc(196)] [18:32:15.212] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: No se ha encontrado el elemento. (0x490)
-[13672:22772:0619/183215.289:ERROR:device_event_log_impl.cc(196)] [18:32:15.223] USB: usb_service_win.cc:308 SetupDiEnumDeviceInterfaces: No se dispone de más datos. (0x103)
-[13672:22772:0619/190032.249:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[13672:22772:0619/190102.272:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
