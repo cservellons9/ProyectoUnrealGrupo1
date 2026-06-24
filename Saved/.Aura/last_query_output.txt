@@ -1,0 +1,29 @@
+Top file paths:
+C:/Users/carme/Documents/ProyectoUnrealGrupo1/Content/HamsterRun/Animations/Running_Slide_Retargeted_Montage.uasset
+
+
+
+File: Content_HamsterRun_Animations_Running_Slide_Retargeted_Montage_uasset
+Relevance Score: 1.4827
+
+
+
+asset_path: /Game/HamsterRun/Animations/Running_Slide_Retargeted_Montage.Running_Slide_Retargeted_Montage
+
+referencers:
+  [
+  "/Game/HamsterRun/Blueprints/BP_runnerCharacter"
+]
+
+dependencies:
+  [
+  "/Game/Characters/Mannequins/Meshes/SK_Mannequin"
+]
+
+content: asset path:
+/Game/HamsterRun/Animations/Running_Slide_Retargeted_Montage.Running_Slide_Retargeted_Montage
+
+
+
+
+

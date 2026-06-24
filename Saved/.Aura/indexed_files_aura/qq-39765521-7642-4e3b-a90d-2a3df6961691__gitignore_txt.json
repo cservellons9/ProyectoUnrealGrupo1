@@ -1,0 +1,1 @@
+{"file_path": ".gitignore.txt", "file_id": "_gitignore_txt", "asset_path": "", "doc_id": "qq-39765521-7642-4e3b-a90d-2a3df6961691", "referencers": [], "dependencies": [], "content": "Binaries/\nDerivedDataCache/\nIntermediate/\nSaved/\n\n.vs/\n.idea/\n\n*.VC.db\n*.opensdf\n*.sdf\n*.suo\n*.xcodeproj"}
